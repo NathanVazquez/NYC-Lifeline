@@ -29,6 +29,11 @@ A Virtual Private Server (VPS) is a machine that hosts all the software and data
 
 Relational Database Management System (RDBMS)
 
+Clear artricle on the difference between SQL and NoSQL Databases : https://www.coursera.org/articles/relational-vs-non-relational-database
+We need a SQL data base in this project because of the size of the data and the structure of the data. SQL DBs are also easier to understand and implement 
+
+
+
 https://www.mongodb.com/compare/mongodb-mysql 
 
 --------
@@ -36,3 +41,5 @@ https://www.mongodb.com/docs/drivers/node/current/
 https://www.w3schools.com/mongodb/mongodb_nodejs_connect_database.php
 https://www.phpmyadmin.net/
 https://www.mongodb.com/cloud/atlas/register
+
+https://www.youtube.com/watch?v=eIjbSH3Imb8
